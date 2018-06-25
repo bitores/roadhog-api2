@@ -1,0 +1,10 @@
+{
+  "name": "roadhog-api2-boilerplate",
+  "private": true,
+  "scripts": {
+    "start": "PORT=8010 ../node_modules/.bin/roadhog dev",
+    "build": "COMPRESS=none ../node_modules/.bin/roadhog build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
