@@ -1,4 +1,3 @@
-console.log('........webrc')
 export default {
   entry: "src/api.js",
   extraBabelPlugins: [
